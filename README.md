@@ -8,7 +8,7 @@ to a Alive Wallpaper but you normal wallpaper are still there dont forget that a
 
 # Which WorkerW?
 
-Now which WorkerW we want for that behave it not that hard but because window user 
+Now which WorkerW we want for that behave it not that hard but because windows WorkerW 
 As far iknow it not made for normal user to use for there App so we have to work Around that
 but Window version depends too.
 
