@@ -4,6 +4,7 @@ It use to render thinks **behind destop icon but top of destop (Your)wallpaper**
 Than you parent your window to **WorkerW** and now you can draw anythink on your window
 And it show behind icon and agian top of wallpaper makeing it look like you replace you wallpaper
 to a Alive Wallpaper but you normal wallpaper are still there dont forget that anyways
+(Well BTW we use WorkerW for this but WorkerW use for deffrent perpose inside window you dont need to know it just you know hehe)
 
 # Which WorkerW?
 
